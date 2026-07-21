@@ -18,17 +18,17 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0540_000.yaml, hash: 'sha256:467432a349bc71ceec4e429c52683f996991857e4c68bff83a781b887da89b48'}
+  - {seq: 0, filename: KR6v0540_000.yaml, hash: 'sha256:5e1a239cc0feebbbede556d64f4cf703d91c56b9d18d2c7d302084ed4ba6aea7'}
   - {seq: 1, filename: KR6v0540_001.yaml, hash: 'sha256:4de84d16001902b9d9445d643b0be87ad4a9ede1aebbc165fd07184aec0388f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0540_000.markers.yaml, hash: 'sha256:7e983b79bfd1808cab35f54ddb6401c39bf96285fca37df525b1f03a7d9dd8b7'}
+  - {seq: 0, role: markers, filename: assets/KR6v0540_000.markers.yaml, hash: 'sha256:b34f0ecf18db031d2a2ecc5a46511d6184763572d4b78980fefc05c75ef74b61'}
   - {seq: 1, role: markers, filename: assets/KR6v0540_001.markers.yaml, hash: 'sha256:049f2093a3faf208edc4eb6c6a5347476fcfbe9f1d239643a9bd5c82e778556d'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 卷首
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 簡要圖
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-3
     span:
-    - front
+    - body
     - 6
     - 6
   label: 題辭
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-4
     span:
-    - front
+    - body
     - 82
     - 82
   label: 圖像
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-5
     span:
-    - front
+    - body
     - 82
     - 82
   label: 筏可和尚道影
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-6
     span:
-    - front
+    - body
     - 88
     - 88
   label: 寶蓮禪寺傳戒儀式一
@@ -88,7 +88,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-7
     span:
-    - front
+    - body
     - 96
     - 96
   label: 寶蓮禪寺傳戒儀式二
@@ -98,7 +98,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-8
     span:
-    - front
+    - body
     - 104
     - 104
   label: 寶蓮禪寺傳戒儀式三
@@ -108,7 +108,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-9
     span:
-    - front
+    - body
     - 112
     - 112
   label: 嶼山初地
@@ -118,7 +118,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-10
     span:
-    - front
+    - body
     - 112
     - 112
   label: 大澳口將軍石
@@ -128,7 +128,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-11
     span:
-    - front
+    - body
     - 118
     - 118
   label: 大澳寶珠潭
@@ -138,7 +138,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-12
     span:
-    - front
+    - body
     - 123
     - 123
   label: 大澳石長橋
@@ -148,7 +148,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-13
     span:
-    - front
+    - body
     - 128
     - 128
   label: 薑山石牛
@@ -158,7 +158,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-14
     span:
-    - front
+    - body
     - 132
     - 132
   label: 鹿湖竹林深處
@@ -168,7 +168,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-15
     span:
-    - front
+    - body
     - 138
     - 138
   label: 水嘮嘈瀑布
@@ -178,7 +178,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-16
     span:
-    - front
+    - body
     - 143
     - 143
   label: 石壁古文
@@ -188,7 +188,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-17
     span:
-    - front
+    - body
     - 147
     - 147
   label: 石壁陳公哲石刻
@@ -198,7 +198,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-18
     span:
-    - front
+    - body
     - 154
     - 154
   label: 鹿湖六角亭
@@ -208,7 +208,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-19
     span:
-    - front
+    - body
     - 159
     - 159
   label: 鹿湖息肩亭傍石刻
@@ -218,7 +218,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-20
     span:
-    - front
+    - body
     - 167
     - 167
   label: 大風坳全景
@@ -228,7 +228,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-21
     span:
-    - front
+    - body
     - 172
     - 172
   label: 昂平海天一境牌門
@@ -238,7 +238,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-22
     span:
-    - front
+    - body
     - 180
     - 180
   label: 昂平攝度橋
@@ -248,7 +248,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-23
     span:
-    - front
+    - body
     - 185
     - 185
   label: 昂平蓮花石
@@ -258,7 +258,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-24
     span:
-    - front
+    - body
     - 190
     - 190
   label: 昂平法華塔
@@ -268,7 +268,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-25
     span:
-    - front
+    - body
     - 195
     - 195
   label: 法華塔旁石刻
@@ -278,7 +278,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-26
     span:
-    - front
+    - body
     - 201
     - 201
   label: 昂平華嚴塔
@@ -288,7 +288,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-27
     span:
-    - front
+    - body
     - 206
     - 206
   label: 華嚴塔石刻
@@ -298,7 +298,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-28
     span:
-    - front
+    - body
     - 211
     - 211
   label: 昂平羅漢塔
@@ -308,7 +308,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-29
     span:
-    - front
+    - body
     - 216
     - 216
   label: 昂平東山法門
@@ -318,7 +318,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-30
     span:
-    - front
+    - body
     - 222
     - 222
   label: 坑尾弘傳不朽石刻
@@ -328,7 +328,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-31
     span:
-    - front
+    - body
     - 230
     - 230
   label: 薑山瀑布
@@ -338,7 +338,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-32
     span:
-    - front
+    - body
     - 234
     - 234
   label: 鹿湖智積林
@@ -348,7 +348,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-33
     span:
-    - front
+    - body
     - 239
     - 239
   label: 薑山寶蓮室牌門
@@ -358,7 +358,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-34
     span:
-    - front
+    - body
     - 246
     - 246
   label: 薑山觀音殿
@@ -368,7 +368,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-35
     span:
-    - front
+    - body
     - 251
     - 251
   label: 鹿湖精舍正門
@@ -378,7 +378,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-36
     span:
-    - front
+    - body
     - 257
     - 257
   label: 靈隱寺正門
@@ -388,7 +388,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-37
     span:
-    - front
+    - body
     - 262
     - 262
   label: 薑山悟真紅屋
@@ -398,7 +398,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-38
     span:
-    - front
+    - body
     - 268
     - 268
   label: 鹿湖佛泉寺
@@ -408,7 +408,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-39
     span:
-    - front
+    - body
     - 273
     - 273
   label: 鹿湖慧蓮
@@ -418,7 +418,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-40
     span:
-    - front
+    - body
     - 277
     - 277
   label: 昂平覺蓮苑
@@ -428,7 +428,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-41
     span:
-    - front
+    - body
     - 282
     - 282
   label: 鹿湖竹園精舍
@@ -438,7 +438,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-42
     span:
-    - front
+    - body
     - 288
     - 288
   label: 鹿湖慧修院
@@ -448,7 +448,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-43
     span:
-    - front
+    - body
     - 293
     - 293
   label: 鹿湖法華淨苑
@@ -458,7 +458,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-44
     span:
-    - front
+    - body
     - 299
     - 299
   label: 法華苑佛殿
@@ -468,7 +468,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-45
     span:
-    - front
+    - body
     - 304
     - 304
   label: 昂平普明禪院側為覺道林
@@ -478,7 +478,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-46
     span:
-    - front
+    - body
     - 315
     - 315
   label: 昂平栴檀林
@@ -488,7 +488,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-47
     span:
-    - front
+    - body
     - 320
     - 320
   label: 昂平圓溪牌門
@@ -498,7 +498,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-48
     span:
-    - front
+    - body
     - 326
     - 326
   label: 昂平婆羅精舍
@@ -508,7 +508,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-49
     span:
-    - front
+    - body
     - 332
     - 332
   label: 寶蓮禪寺山門牌坊
@@ -518,7 +518,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-50
     span:
-    - front
+    - body
     - 340
     - 340
   label: 寶蓮寺大雄寶殿
@@ -528,7 +528,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-51
     span:
-    - front
+    - body
     - 347
     - 347
   label: 寶蓮寺兩千五百觔銅巨鐘
@@ -538,7 +538,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-52
     span:
-    - front
+    - body
     - 358
     - 358
   label: 寶蓮寺地藏殿
@@ -548,7 +548,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-53
     span:
-    - front
+    - body
     - 364
     - 364
   label: 昂平靜安居
@@ -558,7 +558,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-54
     span:
-    - front
+    - body
     - 369
     - 369
   label: 東涌蓮華臺
@@ -568,7 +568,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-55
     span:
-    - front
+    - body
     - 374
     - 374
   label: 東涌華嚴閣佛塔
@@ -578,7 +578,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-56
     span:
-    - front
+    - body
     - 381
     - 381
   label: 東涌羅漢岩
@@ -588,7 +588,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-57
     span:
-    - front
+    - body
     - 386
     - 386
   label: 東涌法林
@@ -598,7 +598,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-58
     span:
-    - front
+    - body
     - 390
     - 390
   label: 東涌古城正門
@@ -608,7 +608,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-59
     span:
-    - front
+    - body
     - 396
     - 396
   label: 東涌城左門
@@ -618,7 +618,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-60
     span:
-    - front
+    - body
     - 401
     - 401
   label: 東涌城右門
@@ -628,7 +628,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-61
     span:
-    - front
+    - body
     - 406
     - 406
   label: 目錄
@@ -638,7 +638,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-62
     span:
-    - front
+    - body
     - 1273
     - 1273
   label: 序文
@@ -648,7 +648,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-63
     span:
-    - front
+    - body
     - 1273
     - 1273
   label: 大嶼山初志序
@@ -658,7 +658,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-64
     span:
-    - front
+    - body
     - 1834
     - 1834
   label: 大嶼山志序
@@ -668,7 +668,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0540_GA_000-mulu-65
     span:
-    - front
+    - body
     - 2629
     - 2629
   label: 總目凡例
@@ -3204,7 +3204,7 @@ table_of_contents:
   label: 四十
   type: mulu
   level: 1
-hash: sha256:fd0f61df15a0e10fd9eff41c1884c81a7f7ed8d96ff9792f6d9d6d6162d6a8b6
+hash: sha256:a47e46c4f1929c99d1fa7477d72d89f7e5562d2643bd2cf6c3106b81d31e6edc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
